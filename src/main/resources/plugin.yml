@@ -1,5 +1,5 @@
 name: MinBoats
-version: '1.0.0'
+version: '1.0.1'
 main: ru.m9studio.MinBoats.MinBoats
 api-version: '1.20'
 author: mina987
